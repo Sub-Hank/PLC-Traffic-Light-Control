@@ -114,7 +114,10 @@ PLC-Traffic-Light-Control/
 
 \## References
 
-\- CPE 459/559 Systems Security Lab
+\- Demonstration Video: [Traffic Light PLC Project](https://www.youtube.com/watch?v=lfSXOyVAUt0)
+
+
+\-CPE 459/559 Systems Security Lab
 
 \- OpenPLC and Beremiz documentation
 
